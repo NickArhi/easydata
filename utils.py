@@ -1,7 +1,7 @@
 import pandas as pd
 import streamlit as st
 #import openpyxl
-import xlrd
+#import xlrd
 import os
 
 
